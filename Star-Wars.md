@@ -8,7 +8,7 @@
 - 1985-09 [TV] Star Wars: Droids - S01 (x13)
 - 1985-09 [TV] Star Wars: Ewoks - S01
 - 1985-11 [MV] Ewoks: The Battle for Endor
-- 1986-06 [TV] Star Wars: Droids - SP (x01)
+- 1986-06 [TV] Star Wars: Droids - Special (x1)
 - 1986-09 [TV] Star Wars: Ewoks - S02
 - 1999-05 [MV] Star Wars Episode I: The Phantom Menace
 - 2002-05 [MV] Star Wars Episode II: Attack of the Clones
