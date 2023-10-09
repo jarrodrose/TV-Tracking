@@ -1,5 +1,7 @@
 # Released
 
+## Initial
+
 - 1977-05 [MV] Star Wars Episode IV: A New Hope
 - 1978-11 [MV] Star Wars Holiday Special
 - 1980-05 [MV] Star Wars Episode V: The Empire Strikes Back
@@ -10,6 +12,9 @@
 - 1985-11 [MV] Ewoks: The Battle for Endor
 - 1986-06 [TV] Star Wars: Droids - Special (x1)
 - 1986-09 [TV] Star Wars: Ewoks - S02
+
+## Restart
+
 - 1999-05 [MV] Star Wars Episode I: The Phantom Menace
 - 2002-05 [MV] Star Wars Episode II: Attack of the Clones
 - 2003-11 [TV] Clone Wars - S01 (x10)
@@ -21,7 +26,10 @@
 - 2009-10 [TV] Star Wars: The Clone Wars - S02 Rise of the Bounty Hunters 
 - 2010-09 [TV] Star Wars: The Clone Wars - S03 Secrets Revealed
 - 2011-09 [TV] Star Wars: The Clone Wars - S04 Battle Lines
-- 2012-09 [TV] Star Wars: The Clone Wars - S05 
+- 2012-09 [TV] Star Wars: The Clone Wars - S05
+
+## Disney Era
+
 - 2014-03 [TV] Star Wars: The Clone Wars - S06 The Lost Missions
 - 2014-09 [TV] Star Wars: Rebels - Shorts (x4)
 - 2014-10 [TV] Star Wars: Rebels - S01 (x15)
