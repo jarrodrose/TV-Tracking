@@ -47,7 +47,6 @@
 - 2020-02 [TV] Star Wars: The Clone Wars - S07 The Final Season
 - 2020-10 [TV] The Mandalorian - S02 (x8)
 - 2021-05 [TV] Star Wars: The Bad Batch - S01 (x16)
-- 2021-05 [TV] The Bad Batch - S01 (x16)
 - 2021-09 [TV] Star Wars: Visions - S01 (x9)
 - 2021-12 [TV] The Book of Boba Fett - S01 FINAL (x7)
 - 2022-09 [TV] Star Wars: Andor - S01 (x12)
@@ -55,7 +54,6 @@
 - 2022-10 [TV] Star Wars: Tales of the Jedi - S01 (x6)
 - 2023-08 [TV] Star Wars: Ahsoka
 - 2023-01 [TV] Star Wars: The Bad Batch - S02 (x16)
-- 2023-01 [TV] The Bad Batch - S02 (x16)
 - 2023-03 [TV] Star Wars: Young Jedi Adeventures - S00 Shorts (x6)
 - 2023-03 [TV] The Mandalorian - S03 (x8)
 - 2023-05 [TV] Star Wars: Visions - S02 (x9)
