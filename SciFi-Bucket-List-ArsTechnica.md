@@ -1,6 +1,6 @@
 # The Ars Technica science fiction bucket list—42 movies every geek must see... and nine bonus stinkers from which you should run away screaming.
 
-Adapted from: https://arstechnica.com/gaming/2016/11/the-ars-technica-science-fiction-bucket-list-42-movies-every-geek-must-see/
+* Adapted from: https://arstechnica.com/gaming/2016/11/the-ars-technica-science-fiction-bucket-list-42-movies-every-geek-must-see/
 
 Here at Ars, we're always making lists (just like Liam Neeson). Lists of science fiction movies are a common item for discussion on the Ars staff Slack channel—particularly short lists of the best science fiction movies ever made. But "best" is an impossible word to quantify in any broadly applicable way—one person's "best ever" might be another person's worst, especially in a genre of movies as rich and varied as science fiction.
 
