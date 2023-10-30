@@ -41,7 +41,7 @@
 - 2017-12 [MV] Star Wars Episode VIII: The Last Jedi
 - 2018-05 [MV] Solo: A Star Wars Story
 - 2018-10 [TV] Star Wars: Resistance - S01 (x21)
-- 2019-10 [TV] Star Wars: Resistance - S02 (x19)
+- 2019-10 [TV] Star Wars: Resistance - S02 FINAL (x19)
 - 2019-11 [TV] The Mandalorian - S01 (x8)
 - 2019-12 [MV] Star Wars Episode IX: Rise of Skywalker
 - 2020-02 [TV] Star Wars: The Clone Wars - S07 The Final Season
