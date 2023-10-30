@@ -1,9 +1,11 @@
 # The Ars Technica science fiction bucket list—42 movies every geek must see... and nine bonus stinkers from which you should run away screaming.
 
+Adapted from: https://arstechnica.com/gaming/2016/11/the-ars-technica-science-fiction-bucket-list-42-movies-every-geek-must-see/
+
 Here at Ars, we're always making lists (just like Liam Neeson). Lists of science fiction movies are a common item for discussion on the Ars staff Slack channel—particularly short lists of the best science fiction movies ever made. But "best" is an impossible word to quantify in any broadly applicable way—one person's "best ever" might be another person's worst, especially in a genre of movies as rich and varied as science fiction.
 
 
-## A SIDE NOTE ABOUT SCI-FI
+## A Side Note About Sci-Fi
 "Science fiction" is a meta term that refers to a huge host of sub-genres, from "hard" science fiction to skiffy to all points between. For this list, we've chosen to constrain eligibility requirements to movies that deal speculatively with science and/or the future. This lets us include classics like Frankenstein (which is properly sci-fi) while excluding films that skew heavily toward fantasy. Then again, we've got Star Wars in the list and that's not a future movie, so author's discretion trumps all, I suppose!
 
 While the Ars staff has some bitter disagreements on which movies are better than others, it's undeniable that some science fiction movies are mandatory viewing for the modern geek. To that end, rather than try to pull together another tired "top ten sci-fi movies" listicle, we've instead polled the Ars staff to try to come up with a definitive "science fiction bucket list"—that is, a list of sci-fi movies that you should absolutely see at least once before you die. They aren't necessarily the "best" movies by any specific set of criteria, but every film on this list is outstanding in some particular way. Some are groundbreaking in their stories or subject matter, some are controversial, and some contain a character or plot twist that became an archetype, referenced in and reused by countless other films. Some films on the list, like Fritz Lang's Metropolis, are pure cinematic poetry; others, like Pacific Rim, are pure popcorn fun. And, as a bonus, we even included a bonus list of a few absolutely terrible stinkers at the very bottom.
