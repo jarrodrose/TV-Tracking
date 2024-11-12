@@ -5,100 +5,100 @@ Notes:
 * TV Specials are listed as Movies as they are one offs of more than shorts length
 
 ## Phase 1
-* [M] Iron Man (May 2008)
-* [M] The Incredible Hulk (June 2008)
-* [M] Iron Man 2 (April 2010)
-* [M] Thor (April 2011)
-* [M] Captain America: The First Avenger (July 2011)
-* [S] The Consultant one-shot on the Thor DVD (September 2011)
-* [S] A Funny Thing Happened on the Way to Thor's Hammer one-shot on the Captain America: The First Avenger DVD (October 2011)
-* [M] The Avengers (aka Avengers Assemble) (April 2012)
-* [S] Item 47 one-shot on the Avengers Assemble DVD (September 2012)
+* [M] (2008-05) Iron Man
+* [M] (2008-06) The Incredible Hulk
+* [M] (2010-04) Iron Man 2
+* [M] (2011-04) Thor
+* [M] (2011-07) Captain America: The First Avenger
+* [S] (2011-09) The Consultant one-shot on the Thor DVD
+* [S] (2011-10) A Funny Thing Happened on the Way to Thor's Hammer one-shot on the Captain America: The First Avenger DVD
+* [M] (2012-04) The Avengers (aka Avengers Assemble)
+* [S] (2012-09) Item 47 one-shot on the Avengers Assemble DVD
 
 ## Phase 2
-* [M] Iron Man 3 (April 2013)
-* [S] Agent Carter one-shot on Iron Man 3 DVD (September 2013)
-* [T] Agents of SHIELD season 1 (September 2013 – May 2014)
-* [M] Thor: The Dark World (November 2013)
-* [S] All Hail the King one-shot on the Thor: The Dark World DVD (February 2014)
-* [M] Captain America: The Winter Soldier (March 2014)
-* [M] Guardians of the Galaxy (July 2014)
-* [T] Agents of SHIELD season 2 (September 2014 – May 2015)
-* [T] Agent Carter season 1 (January 2015 – February 2015)
-* [T] Daredevil season 1 (April 2015)
-* [M] Avengers: Age of Ultron (April 2015)
-* [M] Ant-Man (July 2015)
-* [T] Agents of SHIELD season 3 (September 2015 – May 2016)
-* [T] Jessica Jones season 1 (November 2015)
-* [T] Agent Carter season 2 (January 2016 – February 2016)
-* [T] Daredevil season 2 (March 2016)
+* [M] (2013-04) Iron Man 3
+* [S] (2013-09) Agent Carter one-shot on Iron Man 3 DVD
+* [T] (2013-09) Agents of SHIELD season 1
+* [M] (2013-11) Thor: The Dark World
+* [S] (2014-02) All Hail the King one-shot on the Thor: The Dark World DVD
+* [M] (2014-03) Captain America: The Winter Soldier
+* [M] (2014-07) Guardians of the Galaxy
+* [T] (2014-09) Agents of SHIELD season 2
+* [T] (2015-01) Agent Carter season 1
+* [T] (2015-04) Daredevil season 1
+* [M] (2015-04) Avengers: Age of Ultron
+* [M] (2015-07) Ant-Man
+* [T] (2015-09) Agents of SHIELD season 3
+* [T] (2015-11) Jessica Jones season 1
+* [T] (2016-01) Agent Carter season 2
+* [T] (2016-03) Daredevil season 2
 
 ## Phrase 3
-* [M] Captain America: Civil War (April 2016)
-* [T] Agents of SHIELD season 4 (September 2016 – May 2017)
-* [T] Luke Cage season 1 (September 2016)
-* [M] Doctor Strange (October 2016)
-* [S] Team Thor (August 2016)
-* [S] Team Thor: Part 2 (February 2017)
-* [T] Iron Fist season 1 (March 2017)
-* [M] Guardians of the Galaxy Vol 2 (April 2017)
-* [M] Spider-Man: Homecoming (July 2017)
-* [T] The Defenders season 1 (August 2017)
-* [T] Inhumans season 1 (September 2017 – November 2017)
-* [M] Thor: Ragnarok (October 2017)
-* [T] The Punisher season 1 (November 2017)
-* [T] Runaways season 1 (November 2017 – January 2018)
-* [T] Agents of SHIELD season 5 (December 2017 – May 2018)
-* [M] Black Panther (February 2018)
-* [S] Team Darryl (February 2018)
-* [T] Jessica Jones season 2 (March 2018)
-* [M] Avengers: Infinity War (April 2018)
-* [T] Cloak & Dagger season 1 (June 2018 – August 2018)
-* [T] Luke Cage season 2 (June 2018)
-* [M] Ant-Man and the Wasp (July 2018)
-* [T] Iron Fist season 2 (September 2018)
-* [T] Daredevil season 3 (October 2018)
-* [T] Runaways season 2 (December 2018)
-* [T] The Punisher season 2 (January 2019)
-* [M] Captain Marvel (March 2019)
-* [T] Cloak & Dagger season 2 (April 2019 – May 2019)
-* [M] Avengers: Endgame (April 2019)
-* [T] Agents of SHIELD season 6 (May 2019 – August 2019)
-* [T] Jessica Jones season 3 (June 2019)
-* [M] Spider-Man: Far From Home (July 2019)
-* [T] Runaways season 3 (December 2019)
-* [T] Agents of SHIELD season 7 (May 2020 – August 2020)
-* [T] Helstrom (October 2020)
-* [T] WandaVision (January 2021 – March 2021)
-* [T] The Falcon and the Winter Soldier (March 2021 – April 2021)
-* [T] Loki - Season 1 (June 2021 – July 2021)
+* [M] (2016-04) Captain America: Civil War
+* [T] (2016-09) Agents of SHIELD season 4
+* [T] (2016-09) Luke Cage season 1
+* [M] (2016-10) Doctor Strange
+* [S] (2016-08) Team Thor
+* [S] (2017-02) Team Thor: Part 2
+* [T] (2017-03) Iron Fist season 1
+* [M] (2017-04) Guardians of the Galaxy Vol 2
+* [M] (2017-07) Spider-Man: Homecoming
+* [T] (2017-08) The Defenders season 1
+* [T] (2017-09) Inhumans season 1
+* [M] (2017-10) Thor: Ragnarok
+* [T] (2017-11) The Punisher season 1
+* [T] (2017-11) Runaways season 1
+* [T] (2017-12) Agents of SHIELD season 5
+* [M] (2018-02) Black Panther
+* [S] (2018-02) Team Darryl
+* [T] (2018-03) Jessica Jones season 2
+* [M] (2018-04) Avengers: Infinity War
+* [T] (2018-06) Cloak & Dagger season 1
+* [T] (2018-06) Luke Cage season 2
+* [M] (2018-07) Ant-Man and the Wasp
+* [T] (2018-09) Iron Fist season 2
+* [T] (2018-10) Daredevil season 3
+* [T] (2018-12) Runaways season 2
+* [T] (2019-01) The Punisher season 2
+* [M] (2019-03) Captain Marvel
+* [T] (2019-04) Cloak & Dagger season 2
+* [M] (2019-04) Avengers: Endgame
+* [T] (2019-05) Agents of SHIELD season 6
+* [T] (2019-06) Jessica Jones season 3
+* [M] (2019-07) Spider-Man: Far From Home
+* [T] (2019-12) Runaways season 3
+* [T] (2020-05) Agents of SHIELD season 7
+* [T] (2020-10) Helstrom
+* [T] (2021-01) WandaVision
+* [T] (2021-03) The Falcon and the Winter Soldier
+* [T] (2021-06) Loki - Season 1
 
 ## Phase 4
-* [M] Black Widow (July 2021)
-* [S] What If...? season 1 (August 2021 – October 2021)
-* [M] Shang-Chi and the Legend of the Ten Rings (September 2021)
-* [M] Eternals (November 2021)
-* [T] Hawkeye (November 2021 – December 2021)
-* [M] Spider-Man: No Way Home (December 2021)
-* [T] Moon Knight (March 2022 – May 2022)
-* [M] Doctor Strange in the Multiverse of Madness (May 2022)
-* [T] Ms Marvel (June 2022 – July 2022)
-* [M] Thor: Love and Thunder (July 2022)
-* [S] I Am Groot season 1 (August 2022)
-* [T] She-Hulk: Attorney at Law (August 2022 – October 2022)
-* [M] Werewolf By Night (October 2022)
-* [M] Black Panther: Wakanda Forever (November 2022)
-* [M] The Guardians of the Galaxy Holiday Special (November 2022)
-* [M] Ant-Man and The Wasp: Quantumania (February 2023)
-* [M] Guardians of the Galaxy Vol 3 (May 2023)
-* [T] Secret Invasion (June 2023 – July 2023)
-* [S] I Am Groot season 2 (September 2023)
-* [T] Loki season 2 (October 2023 – November 2023)
-* [M] The Marvels (November 2023)
-* [T] What If...? season 2 (December 2023)
-* [T] Echo (January 2024)
-* [M] Deadpool & Wolverine (July 2024)
-* [T] Agatha All Along (September 2024 – October 2024)
+* [M] (2021-07) Black Widow
+* [S] (2021-08) What If...? season 1
+* [M] (2021-09) Shang-Chi and the Legend of the Ten Rings
+* [M] (2021-11) Eternals
+* [T] (2021-11) Hawkeye
+* [M] (2021-12) Spider-Man: No Way Home
+* [T] (2022-03) Moon Knight
+* [M] (2022-05) Doctor Strange in the Multiverse of Madness
+* [T] (2022-06) Ms Marvel
+* [M] (2022-07) Thor: Love and Thunder
+* [S] (2022-08) I Am Groot season 1
+* [T] (2022-08) She-Hulk: Attorney at Law
+* [M] (2022-10) Werewolf By Night
+* [M] (2022-11) Black Panther: Wakanda Forever
+* [M] (2022-11) The Guardians of the Galaxy Holiday Special
+* [M] (2023-02) Ant-Man and The Wasp: Quantumania
+* [M] (2023-05) Guardians of the Galaxy Vol 3
+* [T] (2023-06) Secret Invasion
+* [S] (2023-09) I Am Groot season 2
+* [T] (2023-10) Loki season 2
+* [M] (2023-11) The Marvels
+* [T] (2023-12) What If...? season 2
+* [T] (2024-01) Echo
+* [M] (2024-07) Deadpool & Wolverine
+* [T] (2024-09) Agatha All Along
 
 
 ## References
