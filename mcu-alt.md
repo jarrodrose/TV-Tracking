@@ -2,7 +2,7 @@
 Release Order - Movies, TV and Shorts
 
 ## Phase 1
-1. Iron Man (May 2008)
+1. Iron Man (May 2008) #movie
 2. The Incredible Hulk (June 2008)
 3. Iron Man 2 (April 2010)
 4. Thor (April 2011)
