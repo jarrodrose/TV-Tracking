@@ -2,7 +2,9 @@
 Release Order - Movies, TV and Shorts
 
 Notes:
-- Specials are listed as Movies as they are one offs of more than shorts length TV 
+- Specials are listed as Movies as they are one offs of more than shorts length TV
+- TV Shows might be in the wrong phase
+- More research is required for this
 
 ## Phase 1
 1. (2008-05) Iron Man [M]
@@ -33,7 +35,7 @@ Notes:
 1. (2016-01) Agent Carter season 2 [T]
 1. (2016-03) Daredevil season 2 [T]
 
-## Phrase 3
+## Phrase 3 (2016 - 2021)
 1. (2016-04) Captain America: Civil War [M]
 1. (2016-09) Agents of SHIELD season 4 [T]
 1. (2016-09) Luke Cage season 1 [T]
@@ -73,7 +75,7 @@ Notes:
 1. (2021-03) The Falcon and the Winter Soldier [T]
 1. (2021-06) Loki - Season 1 [T]
 
-## Phase 4
+## Phase 4 (2021 - 2022)
 1. (2021-07) Black Widow [M]
 1. (2021-08) What If...? season 1 [S]
 1. (2021-09) Shang-Chi and the Legend of the Ten Rings [M]
@@ -90,7 +92,7 @@ Notes:
 1. (2022-11) Black Panther: Wakanda Forever [M]
 1. (2022-11) The Guardians of the Galaxy Holiday Special [M]
 
-## Phase 5
+## Phase 5 (2023 - 2025)
 1. (2023-02) Ant-Man and The Wasp: Quantumania [M]
 1. (2023-05) Guardians of the Galaxy Vol 3 [M]
 1. (2023-06) Secret Invasion [T]
