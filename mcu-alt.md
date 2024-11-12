@@ -96,4 +96,4 @@ Release Order - Movies, TV and Shorts
 
 
 ## References
-- [](https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/)
+- [https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/](https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/)
