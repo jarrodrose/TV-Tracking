@@ -89,6 +89,8 @@ Notes:
 1. (2022-10) Werewolf By Night [M]
 1. (2022-11) Black Panther: Wakanda Forever [M]
 1. (2022-11) The Guardians of the Galaxy Holiday Special [M]
+
+## Phase 5
 1. (2023-02) Ant-Man and The Wasp: Quantumania [M]
 1. (2023-05) Guardians of the Galaxy Vol 3 [M]
 1. (2023-06) Secret Invasion [T]
@@ -99,7 +101,28 @@ Notes:
 1. (2024-01) Echo [T]
 1. (2024-07) Deadpool & Wolverine [M]
 1. (2024-09) Agatha All Along [T]
+1. (2024-12) What If...? Season 3 [T]
+1. (2025-02) Captain America: New World Order [M]
+1. (2025-03) Daredevil Born Again [T]
+1. (2025-05) Thunderbolts* [M]
+1. (2025-06) Ironheart [T]
 
+## Phase 6 (2025-2027) (Limited Details/Inaccurate dates)
+1. (2025-01) Your Friendly Neighbourhood Spider-Man [M]
+1. (2025-07) Fantastic Four: First Steps [M]
+1. (2025-08) Eyes of Wakanda [T]
+1. (2025-10) Marvel Zombies [T]
+1. (2025-12) Wonder Man [T]
+1. (2026-05) Avengers: Doomsday [M]
+1. (2026-##) Vison Quest [T]
+1. (2027-05) Avengers: Secret Wars [M]
+
+## Phase Urgn (????) (Orpadyn?)
+1. (####-##) Blade [M]
+1. (####-##) X-Men [M]
+1. (####-##) Armor Wars [M]
+1. (####-##) Shang-Chi 2 [M]
 
 ## References
 - <https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/>
+- <https://marvelcomicsfanon.fandom.com/wiki/All-New_Marvel_Cinematic_Universe>
