@@ -2,15 +2,15 @@
 Release Order - Movies, TV and Shorts
 
 ## Phase 1
-1. Iron Man (May 2008) #movie
-2. The Incredible Hulk (June 2008)
-3. Iron Man 2 (April 2010)
-4. Thor (April 2011)
-5. Captain America: The First Avenger (July 2011)
-6. The Consultant one-shot on the Thor DVD (September 2011)
-7. A Funny Thing Happened on the Way to Thor's Hammer one-shot on the Captain America: The First Avenger DVD (October 2011)
-8. The Avengers (aka Avengers Assemble) (April 2012)
-9. Item 47 one-shot on the Avengers Assemble DVD (September 2012)
+1. [M] Iron Man (May 2008)
+2. [M] The Incredible Hulk (June 2008)
+3. [M] Iron Man 2 (April 2010)
+4. [M] Thor (April 2011)
+5. [M] Captain America: The First Avenger (July 2011)
+6. [S] The Consultant one-shot on the Thor DVD (September 2011)
+7. [S] A Funny Thing Happened on the Way to Thor's Hammer one-shot on the Captain America: The First Avenger DVD (October 2011)
+8. [M] The Avengers (aka Avengers Assemble) (April 2012)
+9. [S] Item 47 one-shot on the Avengers Assemble DVD (September 2012)
 
 ## Phase 2
 10. Iron Man 3 (April 2013)
