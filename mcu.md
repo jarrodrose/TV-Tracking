@@ -123,11 +123,11 @@ Notes:
 1. (2027-12) Avengers: Secret Wars [M]
 
 ## Phase Urgn (????) (Orpadyn?)
-1. (####-##) Armor Wars [M] - War Machine story
-1. (####-##) Black Panther 3 [M]
-1. (####-##) Blade [M]
-1. (####-##) Untitled Shang-Chi 2 [M]
-1. (####-##) Untitled X-Men [M]
+* (####-##) Armor Wars [M] - War Machine story
+* (####-##) Black Panther 3 [M]
+* (####-##) Blade [M]
+* (####-##) Untitled Shang-Chi 2 [M]
+* (####-##) Untitled X-Men [M]
 
 ## References
 - <https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/>
