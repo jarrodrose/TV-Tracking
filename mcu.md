@@ -130,9 +130,11 @@ Please note: dates might be subject to change
 * (####-##) Blade [M]
 * (####-##) Untitled Shang-Chi 2 [M]
 * (####-##) Untitled X-Men [M]
+* (####-##) Your Friendly Neighborhood Spider-Man - Season 3 [T]
 
 ## References
 - <https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/>
 - <https://marvelcomicsfanon.fandom.com/wiki/All-New_Marvel_Cinematic_Universe>
 - <https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Five>
 - <https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Six>
+- <https://www.digitalspy.com/movies/a871567/marvel-phase-4-3-2-1-mcu/>
