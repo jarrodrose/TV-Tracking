@@ -86,7 +86,7 @@ Notes:
 1. (2022-05) Doctor Strange in the Multiverse of Madness [M]
 1. (2022-06) Ms Marvel [T]
 1. (2022-07) Thor: Love and Thunder [M]
-1. (2022-08) I Am Groot season 1 [S]
+1. (2022-08) I Am Groot - Season 1 [S]
 1. (2022-08) She-Hulk: Attorney at Law [T]
 1. (2022-10) Werewolf By Night [M]
 1. (2022-11) Black Panther: Wakanda Forever [M]
@@ -96,35 +96,41 @@ Notes:
 1. (2023-02) Ant-Man and The Wasp: Quantumania [M]
 1. (2023-05) Guardians of the Galaxy Vol 3 [M]
 1. (2023-06) Secret Invasion [T]
-1. (2023-09) I Am Groot season 2 [S]
-1. (2023-10) Loki season 2 [T]
+1. (2023-09) I Am Groot - Season 2 [S]
+1. (2023-10) Loki - Season 2 [T]
 1. (2023-11) The Marvels [M]
 1. (2023-12) What If...? season 2 [T]
 1. (2024-01) Echo [T]
 1. (2024-07) Deadpool & Wolverine [M]
 1. (2024-09) Agatha All Along [T]
 1. (2024-12) What If...? Season 3 [T]
+1. (2025-01) Your Friendly Neighborhood Spider-Man - Season 1 [T]
 1. (2025-02) Captain America: New World Order [M]
-1. (2025-03) Daredevil Born Again [T]
+1. (2025-03) Daredevil Born Again - Season 1 [T]
 1. (2025-05) Thunderbolts* [M]
 1. (2025-06) Ironheart [T]
 
 ## Phase 6 (2025-2027) (Limited Details/Inaccurate dates)
-1. (2025-01) Your Friendly Neighbourhood Spider-Man [M]
 1. (2025-07) Fantastic Four: First Steps [M]
+1. (2025-07) Spider Man: Brand New Day [M]
 1. (2025-08) Eyes of Wakanda [T]
-1. (2025-10) Marvel Zombies [T]
+1. (2025-09) Marvel Zombies [T]
 1. (2025-12) Wonder Man [T]
-1. (2026-05) Avengers: Doomsday [M]
+1. (2026-03) Daredevil Born Again [T]
 1. (2026-##) Vison Quest [T]
-1. (2027-05) Avengers: Secret Wars [M]
+1. (2026-##) Your Friendly Neighborhood Spider-Man [T]
+1. (2026-12) Avengers: Doomsday [M]
+1. (2027-12) Avengers: Secret Wars [M]
 
 ## Phase Urgn (????) (Orpadyn?)
+1. (####-##) Armor Wars [M] - War Machine story
+1. (####-##) Black Panther 3 [M]
 1. (####-##) Blade [M]
-1. (####-##) X-Men [M]
-1. (####-##) Armor Wars [M]
-1. (####-##) Shang-Chi 2 [M]
+1. (####-##) Untitled Shang-Chi 2 [M]
+1. (####-##) Untitled X-Men [M]
 
 ## References
 - <https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/>
 - <https://marvelcomicsfanon.fandom.com/wiki/All-New_Marvel_Cinematic_Universe>
+- <https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Five>
+- <https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Six>
