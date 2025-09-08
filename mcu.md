@@ -110,7 +110,7 @@ Notes:
 1. (2025-05) Thunderbolts* [M]
 1. (2025-06) Ironheart [T]
 
-## Phase 6 (2025-2027) (Limited Details/Inaccurate dates)
+## Phase 6 (2025-2027)
 1. (2025-07) Fantastic Four: First Steps [M]
 1. (2025-07) Spider Man: Brand New Day [M]
 1. (2025-08) Eyes of Wakanda [T]
@@ -121,6 +121,8 @@ Notes:
 1. (2026-##) Your Friendly Neighborhood Spider-Man [T]
 1. (2026-12) Avengers: Doomsday [M]
 1. (2027-12) Avengers: Secret Wars [M]
+
+Please note: dates might be subject to change
 
 ## Phase Urgn (????) (Orpadyn?)
 * (####-##) Armor Wars [M] - War Machine story
