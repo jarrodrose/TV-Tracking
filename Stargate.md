@@ -1,5 +1,6 @@
 # Stargate: Recommended Viewing Order
 
+* TOC
 {:toc}
 
 Adapted From:
