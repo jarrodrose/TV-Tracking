@@ -9,304 +9,304 @@ A misfit archaeologist joins a military team in traveling through an ancient doo
 
 ## Stargate SG-1: Season 1
 
-- **SG-1** Children of the Gods
-- **SG-1** The Enemy Within
-- **SG-1** Emancipation
-- **SG-1** The Broca Divide
-- **SG-1** The First Commandment
-- **SG-1** Cold Lazarus
-- **SG-1** The Nox
-- **SG-1** Brief Candle
-- **SG-1** Thor's Hammer
-- **SG-1** The Torment of Tantalus
-- **SG-1** Bloodlines
-- **SG-1** Fire and Water
-- **SG-1** Hathor
-- **SG-1** Singularity
-- **SG-1** Cor-ai
-- **SG-1** Enigma
-- **SG-1** Solitudes
-- **SG-1** Tin Man
-- **SG-1** There But for the Grace of God
-- **SG-1** Politics (Part 1 of 3)
-- **SG-1** Within the Serpent's Grasp (Part 2 of 3)
+- **SG1** Children of the Gods
+- **SG1** The Enemy Within
+- **SG1** Emancipation
+- **SG1** The Broca Divide
+- **SG1** The First Commandment
+- **SG1** Cold Lazarus
+- **SG1** The Nox
+- **SG1** Brief Candle
+- **SG1** Thor's Hammer
+- **SG1** The Torment of Tantalus
+- **SG1** Bloodlines
+- **SG1** Fire and Water
+- **SG1** Hathor
+- **SG1** Singularity
+- **SG1** Cor-ai
+- **SG1** Enigma
+- **SG1** Solitudes
+- **SG1** Tin Man
+- **SG1** There But for the Grace of God
+- **SG1** Politics (Part 1 of 3)
+- **SG1** Within the Serpent's Grasp (Part 2 of 3)
 
 ## Stargate SG-1: Season 2
 
-- **SG-1** The Serpent's Lair (Part 3 of 3)
-- **SG-1** In the Line of Duty
-- **SG-1** Prisoners
-- **SG-1** The Gamekeeper
-- **SG-1** Need
-- **SG-1** Thor's Chariot
-- **SG-1** Message in a Bottle
-- **SG-1** Family
-- **SG-1** Secrets
-- **SG-1** Bane
-- **SG-1** The Tok'ra, Part 1
-- **SG-1** The Tok'ra, Part 2
-- **SG-1** Spirits
-- **SG-1** Touchstone
-- **SG-1** A Matter of Time
-- **SG-1** The Fifth Race Serpent's Song
-- **SG-1** Holiday
-- **SG-1** One False Step
-- **SG-1** Show and Tell
-- **SG-1** 1969
-- **SG-1** Out of Mind (Part 1 of 2)
+- **SG1** The Serpent's Lair (Part 3 of 3)
+- **SG1** In the Line of Duty
+- **SG1** Prisoners
+- **SG1** The Gamekeeper
+- **SG1** Need
+- **SG1** Thor's Chariot
+- **SG1** Message in a Bottle
+- **SG1** Family
+- **SG1** Secrets
+- **SG1** Bane
+- **SG1** The Tok'ra, Part 1
+- **SG1** The Tok'ra, Part 2
+- **SG1** Spirits
+- **SG1** Touchstone
+- **SG1** A Matter of Time
+- **SG1** The Fifth Race Serpent's Song
+- **SG1** Holiday
+- **SG1** One False Step
+- **SG1** Show and Tell
+- **SG1** 1969
+- **SG1** Out of Mind (Part 1 of 2)
 
 ## Stargate SG-1: Season 3
 
-- **SG-1** Into the Fire (Part 2 of 2)
-- **SG-1** Seth
-- **SG-1** Fair Game
-- **SG-1** Legacy
-- **SG-1** Learning Curve
-- **SG-1** Point of View
-- **SG-1** Deadman Switch
-- **SG-1** Demons
-- **SG-1** Rules of Engagement
-- **SG-1** Forever in a Day
-- **SG-1** Past and Present
-- **SG-1** Jolinar's Memories (Part 1 of 2)
-- **SG-1** The Devil You Know (Part 2 of 2)
-- **SG-1** Foothold
-- **SG-1** Pretense
-- **SG-1** Urgo
-- **SG-1** A Hundred Days
-- **SG-1** Shades of Grey
-- **SG-1** New Ground
-- **SG-1** Maternal Instinct
-- **SG-1** Crystal Skull
-- **SG-1** Nemesis (Part 1 of 2)
+- **SG1** Into the Fire (Part 2 of 2)
+- **SG1** Seth
+- **SG1** Fair Game
+- **SG1** Legacy
+- **SG1** Learning Curve
+- **SG1** Point of View
+- **SG1** Deadman Switch
+- **SG1** Demons
+- **SG1** Rules of Engagement
+- **SG1** Forever in a Day
+- **SG1** Past and Present
+- **SG1** Jolinar's Memories (Part 1 of 2)
+- **SG1** The Devil You Know (Part 2 of 2)
+- **SG1** Foothold
+- **SG1** Pretense
+- **SG1** Urgo
+- **SG1** A Hundred Days
+- **SG1** Shades of Grey
+- **SG1** New Ground
+- **SG1** Maternal Instinct
+- **SG1** Crystal Skull
+- **SG1** Nemesis (Part 1 of 2)
 
 ## Stargate SG-1: Season 4
 
-- **SG-1** Small Victories (Part 2 of 2)
-- **SG-1** The Other Side
-- **SG-1** Upgrades
-- **SG-1** Crossroads
-- **SG-1** Divide and Conquer
-- **SG-1** Window of Opportunity
-- **SG-1** Watergate
-- **SG-1** The First Ones
-- **SG-1** Scorched Earth
-- **SG-1** Beneath the Surface
-- **SG-1** Point of No Return
-- **SG-1** Tangent
-- **SG-1** The Curse
-- **SG-1** The Serpent's Venom
-- **SG-1** Chain Reaction
-- **SG-1** 2010
-- **SG-1** Absolute Power
-- **SG-1** The Light
-- **SG-1** Prodigy
-- **SG-1** Entity
-- **SG-1** Double Jeopardy
-- **SG-1** Exodus (Part 1 of 3)
+- **SG1** Small Victories (Part 2 of 2)
+- **SG1** The Other Side
+- **SG1** Upgrades
+- **SG1** Crossroads
+- **SG1** Divide and Conquer
+- **SG1** Window of Opportunity
+- **SG1** Watergate
+- **SG1** The First Ones
+- **SG1** Scorched Earth
+- **SG1** Beneath the Surface
+- **SG1** Point of No Return
+- **SG1** Tangent
+- **SG1** The Curse
+- **SG1** The Serpent's Venom
+- **SG1** Chain Reaction
+- **SG1** 2010
+- **SG1** Absolute Power
+- **SG1** The Light
+- **SG1** Prodigy
+- **SG1** Entity
+- **SG1** Double Jeopardy
+- **SG1** Exodus (Part 1 of 3)
 
 ## Stargate SG-1: Season 5
 
-- **SG-1** Enemies (Part 2 of 3)
-- **SG-1** Threshold (Part 3 of 3)
-- **SG-1** Ascension
-- **SG-1** The Fifth Man
-- **SG-1** Red Sky
-- **SG-1** Rite of Passage
-- **SG-1** Beast of Burden
-- **SG-1** The Tomb
-- **SG-1** Between Two Fires
-- **SG-1** 2001
-- **SG-1** Desperate Measures
-- **SG-1** Wormhole X-Treme!
-- **SG-1** Proving Ground
-- **SG-1** 48 Hours
-- **SG-1** Summit (Part 1 of 2)
-- **SG-1** Last Stand (Part 2 of 2)
-- **SG-1** Fail Safe
-- **SG-1** The Warrior
-- **SG-1** Menace
-- **SG-1** The Sentinel
-- **SG-1** Meridian
-- **SG-1** Revelations
+- **SG1** Enemies (Part 2 of 3)
+- **SG1** Threshold (Part 3 of 3)
+- **SG1** Ascension
+- **SG1** The Fifth Man
+- **SG1** Red Sky
+- **SG1** Rite of Passage
+- **SG1** Beast of Burden
+- **SG1** The Tomb
+- **SG1** Between Two Fires
+- **SG1** 2001
+- **SG1** Desperate Measures
+- **SG1** Wormhole X-Treme!
+- **SG1** Proving Ground
+- **SG1** 48 Hours
+- **SG1** Summit (Part 1 of 2)
+- **SG1** Last Stand (Part 2 of 2)
+- **SG1** Fail Safe
+- **SG1** The Warrior
+- **SG1** Menace
+- **SG1** The Sentinel
+- **SG1** Meridian
+- **SG1** Revelations
 
 ## Stargate SG-1: Season 6
 
-- **SG-1** Redemption, Part 1
-- **SG-1** Redemption, Part 2
-- **SG-1** Descent
-- **SG-1** Frozen
-- **SG-1** Nightwalkers
-- **SG-1** Abyss
-- **SG-1** Shadow Play
-- **SG-1** The Other Guys
-- **SG-1** Allegiance
-- **SG-1** Cure
-- **SG-1** Prometheus (Part 1 of 2)
-- **SG-1** Unnatural Selection (Part 2 of 2)
-- **SG-1** Sight Unseen
-- **SG-1** Smoke and Mirrors
-- **SG-1** Paradise Lost
-- **SG-1** Metamorphosis
-- **SG-1** Disclosure
-- **SG-1** Forsaken
-- **SG-1** The Changeling
-- **SG-1** Memento
-- **SG-1** Prophecy
-- **SG-1** Full Circle (Part 1 of 3)
+- **SG1** Redemption, Part 1
+- **SG1** Redemption, Part 2
+- **SG1** Descent
+- **SG1** Frozen
+- **SG1** Nightwalkers
+- **SG1** Abyss
+- **SG1** Shadow Play
+- **SG1** The Other Guys
+- **SG1** Allegiance
+- **SG1** Cure
+- **SG1** Prometheus (Part 1 of 2)
+- **SG1** Unnatural Selection (Part 2 of 2)
+- **SG1** Sight Unseen
+- **SG1** Smoke and Mirrors
+- **SG1** Paradise Lost
+- **SG1** Metamorphosis
+- **SG1** Disclosure
+- **SG1** Forsaken
+- **SG1** The Changeling
+- **SG1** Memento
+- **SG1** Prophecy
+- **SG1** Full Circle (Part 1 of 3)
 
 ## Stargate SG-1: Season 7
 
-- **SG-1** Fallen (Part 2 of 3)
-- **SG-1** Homecoming (Part 3 of 3)
-- **SG-1** Fragile Balance
-- **SG-1** Orpheus
-- **SG-1** Revisions
-- **SG-1** Lifeboat
-- **SG-1** Enemy Mine
-- **SG-1** Space Race
-- **SG-1** Avenger 2.0
-- **SG-1** Birthright
-- **SG-1** Evolution, Part 1
-- **SG-1** Evolution, Part 2
-- **SG-1** Grace
-- **SG-1** Fallout
-- **SG-1** Chimera
-- **SG-1** Death Knell
-- **SG-1** Heroes, Part 1
-- **SG-1** Heroes, Part 2
-- **SG-1** Resurrection
-- **SG-1** Inauguration
-- **SG-1** Lost City, Part 1
-- **SG-1** Lost City, Part 2
+- **SG1** Fallen (Part 2 of 3)
+- **SG1** Homecoming (Part 3 of 3)
+- **SG1** Fragile Balance
+- **SG1** Orpheus
+- **SG1** Revisions
+- **SG1** Lifeboat
+- **SG1** Enemy Mine
+- **SG1** Space Race
+- **SG1** Avenger 2.0
+- **SG1** Birthright
+- **SG1** Evolution, Part 1
+- **SG1** Evolution, Part 2
+- **SG1** Grace
+- **SG1** Fallout
+- **SG1** Chimera
+- **SG1** Death Knell
+- **SG1** Heroes, Part 1
+- **SG1** Heroes, Part 2
+- **SG1** Resurrection
+- **SG1** Inauguration
+- **SG1** Lost City, Part 1
+- **SG1** Lost City, Part 2
 
 ## Stargate SG-1: Season 8 & Stargate Atlantis: Season 1
 
-- **SG-1** New Order, Part 1
-- **SG-1** New Order, Part 2
+- **SG1** New Order, Part 1
+- **SG1** New Order, Part 2
 - **SGA-S01E01** Rising, Part 1
 - **SGA-S01E02** Rising, Part 2
-- **SG-1** Lockdown
+- **SG1** Lockdown
 - **SGA-S01E03** Hide and Seek
-- **SG-1** Zero Hour
+- **SG1** Zero Hour
 - **SGA-S01E04** Thirty-Eight Minutes
-- **SG-1** Icon
+- **SG1** Icon
 - **SGA-S01E05** Suspicion
-- **SG-1** Avatar
+- **SG1** Avatar
 - **SGA-S01E06** Childhood's End
-- **SG-1** Affinity
+- **SG1** Affinity
 - **SGA-S01E07** Poisoning the Well
-- **SG-1** Covenant
+- **SG1** Covenant
 - **SGA-S01E08** Underground
-- **SG-1** Sacrifices
+- **SG1** Sacrifices
 - **SGA-S01E09** Home
-- **SG-1** Endgame
+- **SG1** Endgame
 - **SGA-S01E10** The Storm
 - **SGA-S01E11** The Eye
-- **SG-1** Gemini
-- **SG-1** Prometheus Unbound
+- **SG1** Gemini
+- **SG1** Prometheus Unbound
 - **SGA-S01E12** The Defiant One
-- **SG-1** It's Good to Be King
+- **SG1** It's Good to Be King
 - **SGA-S01E13** Hot Zone
-- **SG-1** Full Alert
+- **SG1** Full Alert
 - **SGA-S01E14** Sanctuary
-- **SG-1** Citizen Joe
+- **SG1** Citizen Joe
 - **SGA-S01E15** Before I Sleep
-- **SG-1** Reckoning, Part 1
-- **SG-1** Reckoning, Part 2
-- **SG-1** Threads
+- **SG1** Reckoning, Part 1
+- **SG1** Reckoning, Part 2
+- **SG1** Threads
 - **SGA-S01E16** The Brotherhood
 - **SGA-S01E17** Letters from Pegasus
 - **SGA-S01E18** The Gift
-- **SG-1** Moebius, Part 1
-- **SG-1** Moebius, Part 2
+- **SG1** Moebius, Part 1
+- **SG1** Moebius, Part 2
 - **SGA-S01E19** The Siege, Part 1
 - **SGA-S01E20** The Siege, Part 2
 
 ## Stargate SG-1: Season 9 & Stargate Atlantis: Season 2
 
 - **SGA-S02E01** The Siege, Part 3
-- **SG-1** Avalon, Part 1
-- **SG-1** Avalon, Part 2
-- **SG-1** Origin
+- **SG1** Avalon, Part 1
+- **SG1** Avalon, Part 2
+- **SG1** Origin
 - **SGA-S02E02** The Intruder
 - **SGA-S02E03** Runner
-- **SG-1** The Ties That Bind
+- **SG1** The Ties That Bind
 - **SGA-S02E04** Duet
-- **SG-1** The Powers That Be
+- **SG1** The Powers That Be
 - **SGA-S02E05** Condemned
-- **SG-1** Beachhead
+- **SG1** Beachhead
 - **SGA-S02E06** Trinity
-- **SG-1** Ex Deus Machina
+- **SG1** Ex Deus Machina
 - **SGA-S02E07** Instinct
 - **SGA-S02E08** Conversion
-- **SG-1** Babylon
-- **SG-1** Prototype
+- **SG1** Babylon
+- **SG1** Prototype
 - **SGA-S02E09** Aurora
-- **SG-1** The Fourth Horseman, Part 1
-- **SG-1** The Fourth Horseman, Part 2
+- **SG1** The Fourth Horseman, Part 1
+- **SG1** The Fourth Horseman, Part 2
 - **SGA-S02E10** The Lost Boys
 - **SGA-S02E11** The Hive
-- **SG-1** Collateral Damage
+- **SG1** Collateral Damage
 - **SGA-S02E12** Epiphany
-- **SG-1** Ripple Effect
+- **SG1** Ripple Effect
 - **SGA-S02E13** Critical Mass
-- **SG-1** Stronghold
+- **SG1** Stronghold
 - **SGA-S02E14** Grace Under Pressure
-- **SG-1** Ethon
+- **SG1** Ethon
 - **SGA-S02E15** The Tower
-- **SG-1** Off the Grid
+- **SG1** Off the Grid
 - **SGA-S02E16** The Long Goodbye
-- **SG-1** The Scourge
+- **SG1** The Scourge
 - **SGA-S02E17** Coup D'etat
-- **SG-1** Arthur's Mantle
+- **SG1** Arthur's Mantle
 - **SGA-S02E18** Michael
 - **SGA-S02E19** Inferno
-- **SG-1** Crusade
-- **SG-1** Camelot
-- **SG-1** Flesh and Blood (Part 3 of 3)
+- **SG1** Crusade
+- **SG1** Camelot
+- **SG1** Flesh and Blood (Part 3 of 3)
 - **SGA-S02E20** Allies		
 
 ## Stargate SG-1: Season 10 & Stargate Atlantis: Season 3
 
 - **SGA-S03E01** No Man's Land
 - **SGA-S03E02** Misbegotten
-- **SG-1** Morpheus
-- **SG-1** The Pegasus Project
+- **SG1** Morpheus
+- **SG1** The Pegasus Project
 - **SGA-S03E03** Irresistible
-- **SG-1** Insiders
+- **SG1** Insiders
 - **SGA-S03E04** Sateda
-- **SG-1** Uninvited
+- **SG1** Uninvited
 - **SGA-S03E05** Progeny
 - **SGA-S03E06** The Real World
-- **SG-1** 200
-- **SG-1** Counterstrike
+- **SG1** 200
+- **SG1** Counterstrike
 - **SGA-S03E07** Common Ground
-- **SG-1** Memento Mori
+- **SG1** Memento Mori
 - **SGA-S03E08** McKay and Mrs. Miller
-- **SG-1** Company of Thieves
+- **SG1** Company of Thieves
 - **SGA-S03E09** Phantoms
-- **SG-1** The Quest, Part 1
-- **SG-1** The Quest, Part 2
+- **SG1** The Quest, Part 1
+- **SG1** The Quest, Part 2
 - **SGA-S03E10** The Return, Part 1
 - **SGA-S03E11** The Return, Part 2
-- **SG-1** Line in the Sand
+- **SG1** Line in the Sand
 - **SGA-S03E12** Echoes
-- **SG-1** The Road Not Taken
+- **SG1** The Road Not Taken
 - **SGA-S03E13** Irresponsible
-- **SG-1** The Shroud
+- **SG1** The Shroud
 - **SGA-S03E14** Tao of Rodney
-- **SG-1** Bounty
+- **SG1** Bounty
 - **SGA-S03E15** The Game
-- **SG-1** Bad Guys
+- **SG1** Bad Guys
 - **SGA-S03E16** The Ark
-- **SG-1** Talion
+- **SG1** Talion
 - **SGA-S03E17** Sunday
-- **SG-1** Family Ties
+- **SG1** Family Ties
 - **SGA-S03E18** Submersion
-- **SG-1** Dominion
+- **SG1** Dominion
 - **SGA-S03E19** Vengeance
-- **SG-1** Unending
+- **SG1** Unending
 
 ## Stargate The Ark of Truth [Movie]
 SG-1 travels to the Ori home galaxy in search of an Ancient device that could stop the Ori war once and for all. But the return of an old enemy threatens to overrun the ship before they can accomplish their mission.
@@ -410,7 +410,7 @@ After Teal'c and Vala vanish during Baal's execution ceremony, the team gates ba
 - **SGU** Blockade
 - **SGU** Gauntlet
 
-## Stargate Origins (Stargate **SG-1** Prequel)
+## Stargate Origins (Stargate **SG1** Prequel)
 In pre-war Egypt, young Catherine Langford must rescue her father when a Nazi scientist takes him through the Stargate to an alien world.
 
 (This was originally released as a 10-part web series)
