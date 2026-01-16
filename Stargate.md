@@ -183,182 +183,183 @@ Adapted From:
 
 - **SG-1** New Order, Part 1
 - **SG-1** New Order, Part 2
-- **SGA** Rising, Part 1
-- **SGA** Rising, Part 2
+- **SGA-S01E01** Rising, Part 1
+- **SGA-S01E02** Rising, Part 2
 - **SG-1** Lockdown
-- **SGA** Hide and Seek
+- **SGA-S01E03** Hide and Seek
 - **SG-1** Zero Hour
-- **SGA** Thirty-Eight Minutes
+- **SGA-S01E04** Thirty-Eight Minutes
 - **SG-1** Icon
-- **SGA** Suspicion
+- **SGA-S01E05** Suspicion
 - **SG-1** Avatar
-- **SGA** Childhood's End
+- **SGA-S01E06** Childhood's End
 - **SG-1** Affinity
-- **SGA** Poisoning the Well
+- **SGA-S01E07** Poisoning the Well
 - **SG-1** Covenant
-- **SGA** Underground
+- **SGA-S01E08** Underground
 - **SG-1** Sacrifices
-- **SGA** Home
+- **SGA-S01E09** Home
 - **SG-1** Endgame
-- **SGA** The Storm
-- **SGA** The Eye
+- **SGA-S01E10** The Storm
+- **SGA-S01E11** The Eye
 - **SG-1** Gemini
 - **SG-1** Prometheus Unbound
-- **SGA** The Defiant One
+- **SGA-S01E12** The Defiant One
 - **SG-1** It's Good to Be King
-- **SGA** Hot Zone
+- **SGA-S01E13** Hot Zone
 - **SG-1** Full Alert
-- **SGA** Sanctuary
+- **SGA-S01E14** Sanctuary
 - **SG-1** Citizen Joe
-- **SGA** Before I Sleep
+- **SGA-S01E15** Before I Sleep
 - **SG-1** Reckoning, Part 1
 - **SG-1** Reckoning, Part 2
 - **SG-1** Threads
-- **SGA** The Brotherhood
-- **SGA** Letters from Pegasus
-- **SGA** The Gift
+- **SGA-S01E16** The Brotherhood
+- **SGA-S01E17** Letters from Pegasus
+- **SGA-S01E18** The Gift
 - **SG-1** Moebius, Part 1
 - **SG-1** Moebius, Part 2
-- **SGA** The Siege, Part 1
-- **SGA** The Siege, Part 2
+- **SGA-S01E19** The Siege, Part 1
+- **SGA-S01E20** The Siege, Part 2
 
 ## Stargate SG-1: Season 9 & Stargate Atlantis: Season 2
 
-- **SGA** The Siege, Part 3
+- **SGA-S02E01** The Siege, Part 3
 - **SG-1** Avalon, Part 1
 - **SG-1** Avalon, Part 2
 - **SG-1** Origin
-- **SGA** The Intruder
-- **SGA** Runner
+- **SGA-S02E02** The Intruder
+- **SGA-S02E03** Runner
 - **SG-1** The Ties That Bind
-- **SGA** Duet
+- **SGA-S02E04* Duet
 - **SG-1** The Powers That Be
-- **SGA** Condemned
+- **SGA-S02E05* Condemned
 - **SG-1** Beachhead
-- **SGA** Trinity
+- **SGA-S02E06* Trinity
 - **SG-1** Ex Deus Machina
-- **SGA** Instinct
-- **SGA** Conversion
+- **SGA-S02E07* Instinct
+- **SGA-S02E08* Conversion
 - **SG-1** Babylon
 - **SG-1** Prototype
-- **SGA** Aurora
+- **SGA-S02E09* Aurora
 - **SG-1** The Fourth Horseman, Part 1
 - **SG-1** The Fourth Horseman, Part 2
-- **SGA** The Lost Boys
-- **SGA** The Hive
+- **SGA-S02E10* The Lost Boys
+- **SGA-S02E11* The Hive
 - **SG-1** Collateral Damage
-- **SGA** Epiphany
+- **SGA-S02E12* Epiphany
 - **SG-1** Ripple Effect
-- **SGA** Critical Mass
+- **SGA-S02E13* Critical Mass
 - **SG-1** Stronghold
-- **SGA** Grace Under Pressure
+- **SGA-S02E14* Grace Under Pressure
 - **SG-1** Ethon
-- **SGA** The Tower
+- **SGA-S02E15* The Tower
 - **SG-1** Off the Grid
-- **SGA** The Long Goodbye
+- **SGA-S02E16* The Long Goodbye
 - **SG-1** The Scourge
-- **SGA** Coup D'etat
+- **SGA-S02E17* Coup D'etat
 - **SG-1** Arthur's Mantle
-- **SGA** Michael
-- **SGA** Inferno
+- **SGA-S02E18* Michael
+- **SGA-S02E19* Inferno
 - **SG-1** Crusade
 - **SG-1** Camelot
 - **SG-1** Flesh and Blood (Part 3 of 3)
-- **SGA** Allies		
+- **SGA-S02E20* Allies		
+
 ## Stargate SG-1: Season 10 & Stargate Atlantis: Season 3
 
-- **SGA** No Man's Land
-- **SGA** Misbegotten
+- **SGA-S03E01* No Man's Land
+- **SGA-S03E02* Misbegotten
 - **SG-1** Morpheus
 - **SG-1** The Pegasus Project
-- **SGA** Irresistible
+- **SGA-S03E03* Irresistible
 - **SG-1** Insiders
-- **SGA** Sateda
+- **SGA-S03E04* Sateda
 - **SG-1** Uninvited
-- **SGA** Progeny
-- **SGA** The Real World
+- **SGA-S03E05* Progeny
+- **SGA-S03E06* The Real World
 - **SG-1** 200
 - **SG-1** Counterstrike
-- **SGA** Common Ground
+- **SGA-S03E07* Common Ground
 - **SG-1** Memento Mori
-- **SGA** McKay and Mrs. Miller
+- **SGA-S03E08* McKay and Mrs. Miller
 - **SG-1** Company of Thieves
-- **SGA** Phantoms
+- **SGA-S03E09* Phantoms
 - **SG-1** The Quest, Part 1
 - **SG-1** The Quest, Part 2
-- **SGA** The Return, Part 1
-- **SGA** The Return, Part 2
+- **SGA-S03E10* The Return, Part 1
+- **SGA-S03E11* The Return, Part 2
 - **SG-1** Line in the Sand
-- **SGA** Echoes
+- **SGA-S03E12* Echoes
 - **SG-1** The Road Not Taken
-- **SGA** Irresponsible
+- **SGA-S03E13* Irresponsible
 - **SG-1** The Shroud
-- **SGA** Tao of Rodney
+- **SGA-S03E14* Tao of Rodney
 - **SG-1** Bounty
-- **SGA** The Game
+- **SGA-S03E15* The Game
 - **SG-1** Bad Guys
-- **SGA** The Ark
+- **SGA-S03E16* The Ark
 - **SG-1** Talion
-- **SGA** Sunday
+- **SGA-S03E17* Sunday
 - **SG-1** Family Ties
-- **SGA** Submersion
+- **SGA-S03E18* Submersion
 - **SG-1** Dominion
-- **SGA** Vengeance
+- **SGA-S03E19* Vengeance
 - **SG-1** Unending
 
 ## Stargate The Ark of Truth [Movie]
 
 ## Stargate Atlantis: Season 3 Finale &amp; Season 4
 
-- **SGA** First Strike (Part 1 of 3)
-- **SGA** Adrift (Part 2 of 3)
-- **SGA** Lifeline (Part 3 of 3)
-- **SGA** Reunion
-- **SGA** Doppelganger
-- **SGA** Travelers
-- **SGA** Tabula Rasa
-- **SGA** Missing
-- **SGA** The Seer
-- **SGA** Miller's Crossing
-- **SGA** This Mortal Coil (Part 1 of 3)
-- **SGA** Be All My Sins Remember'd (Part 2 of 3)
-- **SGA** Spoils of War (Part 3 of 3)
-- **SGA** Quarantine
-- **SGA** Harmony
-- **SGA** Outcast
-- **SGA** Trio
-- **SGA** Midway
-- **SGA** The Kindred, Part 1
-- **SGA** The Kindred, Part 2
-- **SGA** The Last Man (Part 1 of 2)
+- **SGA-S03E20* First Strike (Part 1 of 3)
+- **SGA-S04E01* Adrift (Part 2 of 3)
+- **SGA-S04E02* Lifeline (Part 3 of 3)
+- **SGA-S04E03* Reunion
+- **SGA-S04E04* Doppelganger
+- **SGA-S04E05* Travelers
+- **SGA-S04E06* Tabula Rasa
+- **SGA-S04E07* Missing
+- **SGA-S04E08* The Seer
+- **SGA-S04E09* Miller's Crossing
+- **SGA-S04E10* This Mortal Coil (Part 1 of 3)
+- **SGA-S04E11* Be All My Sins Remember'd (Part 2 of 3)
+- **SGA-S04E12* Spoils of War (Part 3 of 3)
+- **SGA-S04E13* Quarantine
+- **SGA-S04E14* Harmony
+- **SGA-S04E15* Outcast
+- **SGA-S04E16* Trio
+- **SGA-S04E17* Midway
+- **SGA-S04E18* The Kindred, Part 1
+- **SGA-S04E19* The Kindred, Part 2
+- **SGA-S04E20* The Last Man (Part 1 of 2)
 
 ## Stargate Atlantis: Season 5
 
-- **SGA** Search and Rescue
+- **SGA-S05E01* Search and Rescue
 
 ## Stargate: Continuum [Movie]
 
 ## Stargate Atlantis: Season 5
 
-- **SGA** The Seed
-- **SGA** Broken Ties
-- **SGA** The Daedalus Variations
-- **SGA** Ghost in the Machine
-- **SGA** The Shrine
-- **SGA** Whispers
-- **SGA** The Queen
-- **SGA** Tracker
-- **SGA** First Contact
-- **SGA** The Lost Tribe
-- **SGA** Outsiders
-- **SGA** Inquisition
-- **SGA** The Prodigal
-- **SGA** Remnants
-- **SGA** Brain Storm
-- **SGA** Infection
-- **SGA** Identity
-- **SGA** Vegas
-- **SGA** Enemy at the Gate
+- **SGA-S05E02* The Seed
+- **SGA-S05E03* Broken Ties
+- **SGA-S05E04* The Daedalus Variations
+- **SGA-S05E05* Ghost in the Machine
+- **SGA-S05E06* The Shrine
+- **SGA-S05E07* Whispers
+- **SGA-S05E08* The Queen
+- **SGA-S05E09* Tracker
+- **SGA-S05E10* First Contact
+- **SGA-S05E11* The Lost Tribe
+- **SGA-S05E12* Outsiders
+- **SGA-S05E13* Inquisition
+- **SGA-S05E14* The Prodigal
+- **SGA-S05E15* Remnants
+- **SGA-S05E16* Brain Storm
+- **SGA-S05E17* Infection
+- **SGA-S05E18* Identity
+- **SGA-S05E19* Vegas
+- **SGA-S05E20* Enemy at the Gate
 
 ## Stargate Universe: Season 1
 
