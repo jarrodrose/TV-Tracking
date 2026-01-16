@@ -11,6 +11,7 @@ A misfit archaeologist joins a military team in traveling through an ancient doo
 
 - **SG1-S01E01** Children of the Gods, Part 1
 - **SG1-S01E02** Children of the Gods, Part 2
+  - <https://www.gateworld.net/news/2009/07/review-stargate-sg-1-children-of-the-gods-final-cut/6/>
 - **SG1-S01E03** The Enemy Within
 - **SG1-S01E04** Emancipation
 - **SG1-S01E05** The Broca Divide
