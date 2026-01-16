@@ -232,80 +232,80 @@ A misfit archaeologist joins a military team in traveling through an ancient doo
 - **SGA-S02E02** The Intruder
 - **SGA-S02E03** Runner
 - **SG-1** The Ties That Bind
-- **SGA-S02E04* Duet
+- **SGA-S02E04** Duet
 - **SG-1** The Powers That Be
-- **SGA-S02E05* Condemned
+- **SGA-S02E05** Condemned
 - **SG-1** Beachhead
-- **SGA-S02E06* Trinity
+- **SGA-S02E06** Trinity
 - **SG-1** Ex Deus Machina
-- **SGA-S02E07* Instinct
-- **SGA-S02E08* Conversion
+- **SGA-S02E07** Instinct
+- **SGA-S02E08** Conversion
 - **SG-1** Babylon
 - **SG-1** Prototype
-- **SGA-S02E09* Aurora
+- **SGA-S02E09** Aurora
 - **SG-1** The Fourth Horseman, Part 1
 - **SG-1** The Fourth Horseman, Part 2
-- **SGA-S02E10* The Lost Boys
-- **SGA-S02E11* The Hive
+- **SGA-S02E10** The Lost Boys
+- **SGA-S02E11** The Hive
 - **SG-1** Collateral Damage
-- **SGA-S02E12* Epiphany
+- **SGA-S02E12** Epiphany
 - **SG-1** Ripple Effect
-- **SGA-S02E13* Critical Mass
+- **SGA-S02E13** Critical Mass
 - **SG-1** Stronghold
-- **SGA-S02E14* Grace Under Pressure
+- **SGA-S02E14** Grace Under Pressure
 - **SG-1** Ethon
-- **SGA-S02E15* The Tower
+- **SGA-S02E15** The Tower
 - **SG-1** Off the Grid
-- **SGA-S02E16* The Long Goodbye
+- **SGA-S02E16** The Long Goodbye
 - **SG-1** The Scourge
-- **SGA-S02E17* Coup D'etat
+- **SGA-S02E17** Coup D'etat
 - **SG-1** Arthur's Mantle
-- **SGA-S02E18* Michael
-- **SGA-S02E19* Inferno
+- **SGA-S02E18** Michael
+- **SGA-S02E19** Inferno
 - **SG-1** Crusade
 - **SG-1** Camelot
 - **SG-1** Flesh and Blood (Part 3 of 3)
-- **SGA-S02E20* Allies		
+- **SGA-S02E20** Allies		
 
 ## Stargate SG-1: Season 10 & Stargate Atlantis: Season 3
 
-- **SGA-S03E01* No Man's Land
-- **SGA-S03E02* Misbegotten
+- **SGA-S03E01** No Man's Land
+- **SGA-S03E02** Misbegotten
 - **SG-1** Morpheus
 - **SG-1** The Pegasus Project
-- **SGA-S03E03* Irresistible
+- **SGA-S03E03** Irresistible
 - **SG-1** Insiders
-- **SGA-S03E04* Sateda
+- **SGA-S03E04** Sateda
 - **SG-1** Uninvited
-- **SGA-S03E05* Progeny
-- **SGA-S03E06* The Real World
+- **SGA-S03E05** Progeny
+- **SGA-S03E06** The Real World
 - **SG-1** 200
 - **SG-1** Counterstrike
-- **SGA-S03E07* Common Ground
+- **SGA-S03E07** Common Ground
 - **SG-1** Memento Mori
-- **SGA-S03E08* McKay and Mrs. Miller
+- **SGA-S03E08** McKay and Mrs. Miller
 - **SG-1** Company of Thieves
-- **SGA-S03E09* Phantoms
+- **SGA-S03E09** Phantoms
 - **SG-1** The Quest, Part 1
 - **SG-1** The Quest, Part 2
-- **SGA-S03E10* The Return, Part 1
-- **SGA-S03E11* The Return, Part 2
+- **SGA-S03E10** The Return, Part 1
+- **SGA-S03E11** The Return, Part 2
 - **SG-1** Line in the Sand
-- **SGA-S03E12* Echoes
+- **SGA-S03E12** Echoes
 - **SG-1** The Road Not Taken
-- **SGA-S03E13* Irresponsible
+- **SGA-S03E13** Irresponsible
 - **SG-1** The Shroud
-- **SGA-S03E14* Tao of Rodney
+- **SGA-S03E14** Tao of Rodney
 - **SG-1** Bounty
-- **SGA-S03E15* The Game
+- **SGA-S03E15** The Game
 - **SG-1** Bad Guys
-- **SGA-S03E16* The Ark
+- **SGA-S03E16** The Ark
 - **SG-1** Talion
-- **SGA-S03E17* Sunday
+- **SGA-S03E17** Sunday
 - **SG-1** Family Ties
-- **SGA-S03E18* Submersion
+- **SGA-S03E18** Submersion
 - **SG-1** Dominion
-- **SGA-S03E19* Vengeance
+- **SGA-S03E19** Vengeance
 - **SG-1** Unending
 
 ## Stargate The Ark of Truth [Movie]
@@ -313,56 +313,56 @@ SG-1 travels to the Ori home galaxy in search of an Ancient device that could st
 
 ## Stargate Atlantis: Season 3 Finale &amp; Season 4
 
-- **SGA-S03E20* First Strike (Part 1 of 3)
-- **SGA-S04E01* Adrift (Part 2 of 3)
-- **SGA-S04E02* Lifeline (Part 3 of 3)
-- **SGA-S04E03* Reunion
-- **SGA-S04E04* Doppelganger
-- **SGA-S04E05* Travelers
-- **SGA-S04E06* Tabula Rasa
-- **SGA-S04E07* Missing
-- **SGA-S04E08* The Seer
-- **SGA-S04E09* Miller's Crossing
-- **SGA-S04E10* This Mortal Coil (Part 1 of 3)
-- **SGA-S04E11* Be All My Sins Remember'd (Part 2 of 3)
-- **SGA-S04E12* Spoils of War (Part 3 of 3)
-- **SGA-S04E13* Quarantine
-- **SGA-S04E14* Harmony
-- **SGA-S04E15* Outcast
-- **SGA-S04E16* Trio
-- **SGA-S04E17* Midway
-- **SGA-S04E18* The Kindred, Part 1
-- **SGA-S04E19* The Kindred, Part 2
-- **SGA-S04E20* The Last Man (Part 1 of 2)
+- **SGA-S03E20** First Strike (Part 1 of 3)
+- **SGA-S04E01** Adrift (Part 2 of 3)
+- **SGA-S04E02** Lifeline (Part 3 of 3)
+- **SGA-S04E03** Reunion
+- **SGA-S04E04** Doppelganger
+- **SGA-S04E05** Travelers
+- **SGA-S04E06** Tabula Rasa
+- **SGA-S04E07** Missing
+- **SGA-S04E08** The Seer
+- **SGA-S04E09** Miller's Crossing
+- **SGA-S04E10** This Mortal Coil (Part 1 of 3)
+- **SGA-S04E11** Be All My Sins Remember'd (Part 2 of 3)
+- **SGA-S04E12** Spoils of War (Part 3 of 3)
+- **SGA-S04E13** Quarantine
+- **SGA-S04E14** Harmony
+- **SGA-S04E15** Outcast
+- **SGA-S04E16** Trio
+- **SGA-S04E17** Midway
+- **SGA-S04E18** The Kindred, Part 1
+- **SGA-S04E19** The Kindred, Part 2
+- **SGA-S04E20** The Last Man (Part 1 of 2)
 
 ## Stargate Atlantis: Season 5
 
-- **SGA-S05E01* Search and Rescue
+- **SGA-S05E01** Search and Rescue
 
 ## Stargate: Continuum [Movie]
 After Teal'c and Vala vanish during Baal's execution ceremony, the team gates back to Earth to discover that the timeline has been altered and the Stargate program no longer exists.
 
 ## Stargate Atlantis: Season 5
 
-- **SGA-S05E02* The Seed
-- **SGA-S05E03* Broken Ties
-- **SGA-S05E04* The Daedalus Variations
-- **SGA-S05E05* Ghost in the Machine
-- **SGA-S05E06* The Shrine
-- **SGA-S05E07* Whispers
-- **SGA-S05E08* The Queen
-- **SGA-S05E09* Tracker
-- **SGA-S05E10* First Contact
-- **SGA-S05E11* The Lost Tribe
-- **SGA-S05E12* Outsiders
-- **SGA-S05E13* Inquisition
-- **SGA-S05E14* The Prodigal
-- **SGA-S05E15* Remnants
-- **SGA-S05E16* Brain Storm
-- **SGA-S05E17* Infection
-- **SGA-S05E18* Identity
-- **SGA-S05E19* Vegas
-- **SGA-S05E20* Enemy at the Gate
+- **SGA-S05E02** The Seed
+- **SGA-S05E03** Broken Ties
+- **SGA-S05E04** The Daedalus Variations
+- **SGA-S05E05** Ghost in the Machine
+- **SGA-S05E06** The Shrine
+- **SGA-S05E07** Whispers
+- **SGA-S05E08** The Queen
+- **SGA-S05E09** Tracker
+- **SGA-S05E10** First Contact
+- **SGA-S05E11** The Lost Tribe
+- **SGA-S05E12** Outsiders
+- **SGA-S05E13** Inquisition
+- **SGA-S05E14** The Prodigal
+- **SGA-S05E15** Remnants
+- **SGA-S05E16** Brain Storm
+- **SGA-S05E17** Infection
+- **SGA-S05E18** Identity
+- **SGA-S05E19** Vegas
+- **SGA-S05E20** Enemy at the Gate
 
 ## Stargate Universe: Season 1
 
