@@ -5,6 +5,7 @@ Adapted From:
   - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
 - https://stargate.fandom.com/wiki/Timeline
 - [Stargate Command Youtube Channel](https://www.youtube.com/@StargateCommand)
+
 ## Stargate [Movie]
 A misfit archaeologist joins a military team in traveling through an ancient doorway to a far-away planet, where they must liberate an enslaved people from a powerful false god.
 
