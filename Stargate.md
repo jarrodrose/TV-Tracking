@@ -3,8 +3,9 @@
 Adapted From:
 - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
 - https://stargate.fandom.com/wiki/Timeline
-
+- (Stargate Command Youtube Channel)[https://www.youtube.com/@StargateCommand]
 ## Stargate [Movie]
+A misfit archaeologist joins a military team in traveling through an ancient doorway to a far-away planet, where they must liberate an enslaved people from a powerful false god.
 
 ## Stargate SG-1: Season 1
 
@@ -308,6 +309,7 @@ Adapted From:
 - **SG-1** Unending
 
 ## Stargate The Ark of Truth [Movie]
+SG-1 travels to the Ori home galaxy in search of an Ancient device that could stop the Ori war once and for all. But the return of an old enemy threatens to overrun the ship before they can accomplish their mission.
 
 ## Stargate Atlantis: Season 3 Finale &amp; Season 4
 
@@ -338,6 +340,7 @@ Adapted From:
 - **SGA-S05E01* Search and Rescue
 
 ## Stargate: Continuum [Movie]
+After Teal'c and Vala vanish during Baal's execution ceremony, the team gates back to Earth to discover that the timeline has been altered and the Stargate program no longer exists.
 
 ## Stargate Atlantis: Season 5
 
@@ -408,6 +411,9 @@ Adapted From:
 - **SGU** Gauntlet
 
 ## Stargate Origins (Stargate **SG-1** Prequel)
+In pre-war Egypt, young Catherine Langford must rescue her father when a Nazi scientist takes him through the Stargate to an alien world.
+
+(This was originally released as a 10-part web series)
 
 - **SGO** Episode 1
 - **SGO** Episode 2
