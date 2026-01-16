@@ -1,5 +1,7 @@
 # Stargate: Recommended Viewing Order
 
+{:toc}
+
 Adapted From:
 - https://www.gateworld.net/news/2024/09/optimized-stargate-watch-order/
   - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
