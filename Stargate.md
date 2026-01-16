@@ -183,7 +183,8 @@ Adapted From:
 
 - **SG-1** New Order, Part 1
 - **SG-1** New Order, Part 2
-- **SGA** Rising
+- **SGA** Rising, Part 1
+- **SGA** Rising, Part 2
 - **SG-1** Lockdown
 - **SGA** Hide and Seek
 - **SG-1** Zero Hour
