@@ -3,12 +3,6 @@
 * TOC
 {:toc}
 
-Adapted From:
-- https://www.gateworld.net/news/2024/09/optimized-stargate-watch-order/
-  - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
-- https://stargate.fandom.com/wiki/Timeline
-- [Stargate Command Youtube Channel](https://www.youtube.com/@StargateCommand)
-
 ## Stargate [Movie]
 A misfit archaeologist joins a military team in traveling through an ancient doorway to a far-away planet, where they must liberate an enslaved people from a powerful false god.
 
@@ -433,3 +427,9 @@ In pre-war Egypt, young Catherine Langford must rescue her father when a Nazi sc
 - **SGO** Episode 8
 - **SGO** Episode 9
 - **SGO** Episode 10
+
+## References
+- https://www.gateworld.net/news/2024/09/optimized-stargate-watch-order/
+  - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
+- https://stargate.fandom.com/wiki/Timeline
+- [Stargate Command Youtube Channel](https://www.youtube.com/@StargateCommand)
