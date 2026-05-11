@@ -1,4 +1,4 @@
-# Babylon 5 - 
+# Babylon 5
 
 This is a mostly chronologically correct, JMS approved viewing order for the episodes.
 
