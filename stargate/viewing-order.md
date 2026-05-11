@@ -414,7 +414,7 @@ After Teal'c and Vala vanish during Baal's execution ceremony, the team gates ba
 - **SGU** Blockade
 - **SGU** Gauntlet
 
-## Stargate Origins (Stargate **SG1** Prequel)
+## Stargate Origins (Stargate SG1 Prequel)
 In pre-war Egypt, young Catherine Langford must rescue her father when a Nazi scientist takes him through the Stargate to an alien world.
 
 (This was originally released as a 10-part web series)
