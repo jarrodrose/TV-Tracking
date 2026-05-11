@@ -2,3 +2,11 @@ remote_theme: "jekyll/minima"
 
 title: TV Tracking - Cinematic Universe Information
 description: A place for me to write up my summaries of the best way to absorb the Cinematic Universes I think are great.
+
+minima:
+  nav_pages:
+    - babylon-5/babylon-5.md
+    - mcu/README.md
+    - star-trek/star-trek-a.md
+    - star-wars/README.md
+    - stargate/viewing-order.md
