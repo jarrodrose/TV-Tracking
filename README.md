@@ -1,8 +1,3 @@
-# TV-Tracking
-
-* [SciFi Bucket List ArsTechnica](./SciFi-Bucket-List-ArsTechnica.md)
-* [Star Trek](./Star-Trek.md)
-* [Star Wars](./Star-Wars.md)
-* [Stargate](./Stargate.md)
-* [Babylon 5](./babylon-5.md)
-* [Babylon 5: Crusade](./babylon-5-crusade.md)
+This is my site for information regarding the Cinematic Universes that I find interesting.
+It is not a complete list at all, but I update it when I need more information for a rewatch or
+some other trigger that makes me want to note things.
