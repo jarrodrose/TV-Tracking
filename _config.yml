@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "jekyll/minima"
+
 title: TV Tracking - Cinematic Universe Information
 description: A place for me to write up my summaries of the best way to absorb the Cinematic Universes I think are great.
