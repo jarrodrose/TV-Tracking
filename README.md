@@ -5,4 +5,4 @@
 * [Star Wars](./Star-Wars.md)
 * [Stargate](./Stargate.md)
 * [Babylon 5](./babylon-5.md)
-* [Babylon 5](./babylon-5-crusade.md)
+* [Babylon 5: Crusade](./babylon-5-crusade.md)
