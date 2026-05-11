@@ -1,4 +1,7 @@
-# Marvel Cinematic Universe
+---
+title: Marvel Cinematic Universe
+---
+
 Release Order - Movies, TV and Shorts
 
 Notes:
