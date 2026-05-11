@@ -1,3 +1,7 @@
+---
+title: Star Wars
+---
+
 # Released
 
 ## Initial
