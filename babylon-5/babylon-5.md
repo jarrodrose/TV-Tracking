@@ -1,4 +1,6 @@
-# Babylon 5
+---
+title: Babylon 5
+---
 
 * TOC
 {:toc}
