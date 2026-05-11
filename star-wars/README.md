@@ -2,9 +2,9 @@
 title: Star Wars
 ---
 
-# Released
+## Released
 
-## Initial
+### Initial
 
 - 1977-05 [MV] Star Wars Episode IV: A New Hope
 - 1978-11 [MV] Star Wars Holiday Special
@@ -17,7 +17,7 @@ title: Star Wars
 - 1986-06 [TV] Star Wars: Droids - Special (x1)
 - 1986-09 [TV] Star Wars: Ewoks - S02
 
-## Restart
+### Restart
 
 - 1999-05 [MV] Star Wars Episode I: The Phantom Menace
 - 2002-05 [MV] Star Wars Episode II: Attack of the Clones
@@ -32,7 +32,7 @@ title: Star Wars
 - 2011-09 [TV] Star Wars: The Clone Wars - S04 Battle Lines
 - 2012-09 [TV] Star Wars: The Clone Wars - S05
 
-## Disney Era
+### Disney Era
 
 - 2014-03 [TV] Star Wars: The Clone Wars - S06 The Lost Missions
 - 2014-09 [TV] Star Wars: Rebels - Shorts (x4)
@@ -64,7 +64,7 @@ title: Star Wars
 - 2023-08 [TV] Star Wars: Ahsoka
 
 
-# Upcoming
+## Upcoming
 
 - 2023-11 [TV] Star Wars: Skeleton Crew (x8)
 - 2024-00 [TV] Star Wars: Andor - S02 (x12)
@@ -73,7 +73,7 @@ title: Star Wars
 - 2024-00 [TV] Star Wars: The Bad Batch - S03 FINAL (x?)
 - 202?-00 [TV] Star Wars: The Mandalorian - S04 (x?)
 
-## Unknown Dates
+### Unknown Dates
 
 - Untitled New Jedi Order film
 - Untitled Dawn of the Jedi film
