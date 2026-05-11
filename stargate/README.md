@@ -1,5 +1,5 @@
 ---
-title: Star Gate
+title: Stargate
 ---
 
 Stargate and it's associated spinoffs are here
