@@ -1,4 +1,6 @@
-# Stargate: Recommended Viewing Order
+---
+title: Stargate - Recommended Viewing Order
+---
 
 * TOC
 {:toc}
