@@ -11,3 +11,4 @@ minima:
     - stargate/README.md
     - star-trek/README.md
     - star-wars/README.md
+  hide_site_feed_link: false
