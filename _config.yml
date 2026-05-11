@@ -5,7 +5,7 @@ description: A place for me to write up my summaries of the best way to absorb t
 
 minima:
   nav_pages:
-    - babylon-5/babylon-5.md
+    - babylon-5/README.md
     - mcu/README.md
     - red-dwarf/README.md
     - stargate/README.md
