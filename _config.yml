@@ -7,6 +7,7 @@ minima:
   nav_pages:
     - babylon-5/babylon-5.md
     - mcu/README.md
-    - star-trek/star-trek-a.md
-    - star-wars/README.md
+    - red-dwarf/README.md
     - stargate/viewing-order.md
+    - star-trek/README.md
+    - star-wars/README.md
