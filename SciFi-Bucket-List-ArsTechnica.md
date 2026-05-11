@@ -1,3 +1,7 @@
+---
+title: SciFi Bucket List
+---
+
 # The Ars Technica science fiction bucket list—42 movies every geek must see... and nine bonus stinkers from which you should run away screaming.
 
 * Adapted from: https://arstechnica.com/gaming/2016/11/the-ars-technica-science-fiction-bucket-list-42-movies-every-geek-must-see/
