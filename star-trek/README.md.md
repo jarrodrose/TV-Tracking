@@ -1,3 +1,7 @@
+---
+title: Star Trek
+---
+
 # How to watch Star Trek in Order: The Complete Series Timeline
 
 * Adapted from https://www.ign.com/articles/star-trek-in-order
