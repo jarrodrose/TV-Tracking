@@ -431,7 +431,7 @@ In pre-war Egypt, young Catherine Langford must rescue her father when a Nazi sc
 - **SGO** Episode 10
 
 ## References
-- https://www.gateworld.net/news/2024/09/optimized-stargate-watch-order/
-  - https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/
-- https://stargate.fandom.com/wiki/Timeline
+- <https://www.gateworld.net/news/2024/09/optimized-stargate-watch-order/>
+  - <https://www.gateworld.net/news/2009/05/stargate-recommended-viewing-order/>
+- <https://stargate.fandom.com/wiki/Timeline>
 - [Stargate Command Youtube Channel](https://www.youtube.com/@StargateCommand)
