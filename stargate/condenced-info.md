@@ -1,18 +1,22 @@
-## SG-1 Season 1
+---
+title: Stargate - Condenced Info
+---
 
-## SG-1 Season 2
+# SG-1 Season 1
 
-## SG-1 Season 3
+# SG-1 Season 2
 
-## SG-1 Season 4
+# SG-1 Season 3
 
-## SG-1 Season 5
+# SG-1 Season 4
 
-## SG-1 Season 6
+# SG-1 Season 5
 
-## SG-1 Season 7
+# SG-1 Season 6
 
-## SG-1 Season 8
+# SG-1 Season 7
+
+# SG-1 Season 8
 
 - SG-1	- 8x01 + 8x02
 - SGA	- 1x01 + 1x02
@@ -27,7 +31,7 @@
 
 
 
-## Data dump
+# Data dump
 Source: https://www.reddit.com/r/Stargate/comments/z8ww6s/a_sg1_viewing_order_with_only_crossover_episodes/
 
 
