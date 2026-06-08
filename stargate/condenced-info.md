@@ -18,17 +18,29 @@ title: Stargate - Condenced Info
 
 # SG-1 Season 8
 
-- SG-1	- 8x01 + 8x02
-- SGA	- 1x01 + 1x02
-- SG-1	- 8x03 to 8x10
-- SGA	- 1x03 to 1x09
-- SG-1	- 8x11 to 8x18
-- SGA	- 1x10 to 1x18
-- SG-1	- 8x19 to 8x20
-- SGA	- 1x19 to 2x01
+## Block 1
+1. SG-1	- 8x01 + 8x02
+2. SGA	- 1x01 + 1x02
+
+## Block 2
+3. SG-1	- 8x03 to 8x08
+4. SGA	- 1x03 to 1x08
+5. SGA	- 1x09
+
+## Block 3
+6. SG-1	- 8x09 to 8x12
+
+## Block 4
+7. SGA	- 1x10 to 1x18
+
+## Block 5
+8. SG-1	- 8x13 to 8x20
+
+## Block 6
+9. SGA	- 1x19 + 1x20 + 2x01
+
 
 [MORE TO COME LATER]
-
 
 
 # Data dump
